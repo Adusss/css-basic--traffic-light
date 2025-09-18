@@ -11,7 +11,6 @@ body {
 
 .red-huge-box {
   background-color: red;
-  text-align: center;
   box-sizing: border-box;
   border: 20px solid darkred;
   height: 200px;
@@ -27,7 +26,6 @@ body {
 }
 .yellow-huge-box {
   background-color: yellow;
-  text-align: center;
   box-sizing: border-box;
   border: 20px solid #b8860b;
   height: 200px;
@@ -44,7 +42,6 @@ body {
 }
 .green-huge-box {
   background-color: green;
-  text-align: center;
   box-sizing: border-box;
   border: 20px solid darkgreen;
   height: 200px;
