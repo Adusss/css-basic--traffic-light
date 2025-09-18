@@ -9,7 +9,7 @@ body {
   width: 200px;
 }
 
-.red-light-box {
+.red-huge-box {
   background-color: red;
   text-align: center;
   box-sizing: border-box;
@@ -25,7 +25,7 @@ body {
   height: 50%;
   margin-top: 50%;
 }
-.yellow-light-box {
+.yellow-huge-box {
   background-color: yellow;
   text-align: center;
   box-sizing: border-box;
@@ -42,7 +42,7 @@ body {
   margin-top: 50%;
   margin-left: 50%;
 }
-.green-light-box {
+.green-huge-box {
   background-color: green;
   text-align: center;
   box-sizing: border-box;
